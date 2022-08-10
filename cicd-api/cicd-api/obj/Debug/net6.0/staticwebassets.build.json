@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lTV8w70912QStx1JYSKmsXi1cY4+/Qn03QY9bKKGT+w=",
+  "Source": "cicd-api",
+  "BasePath": "_content/cicd-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
